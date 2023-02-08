@@ -1,0 +1,5 @@
+.color1 {color: #141e11;}negro
+.color2 {color: #0d4e77;}azul marino
+.color3 {color: #ff8b08;}naranja
+.color4 {color: #ffe13c;}amarillo
+.color5 {color: #fffb98;}amarillo palido
